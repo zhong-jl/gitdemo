@@ -1,6 +1,6 @@
 #1
 print("Hello world\n")
-print("allocate\n")
+print("这是第二个开发者的修改了，乔乔")
 height,weight = eval(input('请输入身高（米）和体重（公斤）【逗号隔开】:'))
 bmi = weight/pow(height,2)
 print('BMI数值为:{:.2f}'.format(bmi))
